@@ -1,0 +1,81 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Desconectado", "Desconectado\", "{5007A4A5-0715-46E6-892B-A6F0B18F24E5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Desconectado"
+		Debug.AspNetCompiler.PhysicalPath = "Desconectado\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Desconectado\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Desconectado"
+		Release.AspNetCompiler.PhysicalPath = "Desconectado\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Desconectado\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49384"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Conectado", "Conectado\", "{DFDFBA12-AF4C-4A67-A420-00701BD33712}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Conectado"
+		Debug.AspNetCompiler.PhysicalPath = "Conectado\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Conectado\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Conectado"
+		Release.AspNetCompiler.PhysicalPath = "Conectado\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Conectado\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49385"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Practico", "Practico\", "{7A16D38B-5EB8-4584-9226-334C0F64E36E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Practico"
+		Debug.AspNetCompiler.PhysicalPath = "Practico\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Practico\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Practico"
+		Release.AspNetCompiler.PhysicalPath = "Practico\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Practico\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49388"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5007A4A5-0715-46E6-892B-A6F0B18F24E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5007A4A5-0715-46E6-892B-A6F0B18F24E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDFBA12-AF4C-4A67-A420-00701BD33712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDFBA12-AF4C-4A67-A420-00701BD33712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A16D38B-5EB8-4584-9226-334C0F64E36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A16D38B-5EB8-4584-9226-334C0F64E36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
